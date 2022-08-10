@@ -1,0 +1,1 @@
+## An app that simulates somo functionalities of a bank.
